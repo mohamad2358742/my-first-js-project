@@ -1,9 +1,5 @@
-let x = 5 + 3 - 2 -1 == 3 + 2
-console.log(x)
- 
-f = 12
-console.log(f)
-let name = 'mohammad'
-const age = '16' 
-let massage = ` welcome to my website i am ${name} ${age}`
-console.log(massage)
+hi dont forget sub and like for more video 
+first to hit on ctrl +`  like this 
+when is green its meen we add code on panel  and now is red becuase we must be add in panel like this with git add . command now is add
+im sorry
+retry
